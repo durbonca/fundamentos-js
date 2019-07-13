@@ -1,11 +1,3 @@
-<h1>Antes que nada</h1>
-
-Para este curso utilizaremos se requiere emplear la consola de algun navegador y un editor de texto. 
-
-Todos los archivos de resumenes de las clases estan en la carpeta "Resumenes archivos de JS".
-
-Para crear un probar los archivos independiente siempre tienes creado un index.html
-
 <b><h1>Primera clase</h1></b>
 
 <h1>Variables</h1>
@@ -165,27 +157,3 @@ Create a variable called carName and assign the value Volvo to it.
 var 
  = "
 ";
-
-<b><h1>Segunda clase</h1></b>
-
-<h1>Strings</h1>
-
-Los strings son cadenas de texto. Para indicar que estamos usando una cadena de texto debemos de colocar las comillas simples.
-
-En este curso utilizaremos los métodos:
-
-toUpperCase, que sirve para transformar un String a mayúsculas.
-toLowerCase, que sirve para transformar el string a minúsculas.
-
-También usaremos el atributo:
-
-length, que nos indica la cantidad de caractéres que tiene un string.
-
-Para concatenar dos strings se utiliza el símbolo (+)
-
-ejemplo:
-
-var nombreCompleto = nombre + ’ ’ + apellido
-
-
-Desafío en clase: Encuentra la última letra de tu nombre en un string
